@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  
+  "proxy":"https://server-ujbx.onrender.com",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@iconscout/unicons": "^4.0.1",
